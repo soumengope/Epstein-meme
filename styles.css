@@ -95,8 +95,8 @@ body{
     z-index:1;
 }
 @keyframes sec_logo{
-    0%{transform:translateX(-10%);}
-    50%{transform:translateX(10%)}
+    0%{transform:translateX(-5%);}
+    50%{transform:translateX(5%)}
     100%{transform: translateX(0%);}
 }
 
@@ -144,6 +144,7 @@ body{
 
 .main_img{
     margin-bottom:1rem;
+    background-color: rgb(228, 153, 215);
 }
 .main_img img{
     width:100%;
